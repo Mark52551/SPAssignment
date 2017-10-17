@@ -7,7 +7,7 @@ using namespace std;
 
 class Spot
 {
-protected:
+protected:     
 	bool isOpen;
 public:
 	bool isSpotOpen();
